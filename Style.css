@@ -480,3 +480,11 @@ footer {
     font-size: 35px;
   }
 }
+.achievement-link {
+  color: white;          /* or: color: inherit; */
+  text-decoration: none; /* removes underline */
+}
+.achievement-link {
+  color: inherit;
+  text-decoration: none;
+}
